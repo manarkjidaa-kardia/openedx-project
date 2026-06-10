@@ -31,7 +31,7 @@ tutor local launch
 
 Le guide détaillé est disponible dans :
 
-`docs/Guide_Installation_Open_edX.docx`
+`Guide_Installation_Open_edX.docx`
 
 ## Références
 
