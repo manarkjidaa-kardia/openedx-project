@@ -6,7 +6,7 @@
 ## Accès de test
 
 ### Administrateur
-- Login : admin
+- Login : admin@example.com
 - Mot de passe : 12345
 ## Installation
 
